@@ -1,5 +1,5 @@
 <xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="expansion_servopower" id="58" x="14" y="9">
+  <block type="expansion_servopower" id="-58" x="-14" y="9">
     <field name="SERVO">ON</field>
     <next>
       <block type="variables_set" id="67" inline="true">
