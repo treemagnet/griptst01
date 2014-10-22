@@ -6,9 +6,9 @@ Demonstration showing how to turn on Servo power and then make a Servo connected
 ### Project Information
 ```
 Type              : Scratch
-Version           : 01.0
+Version           : 1.0
 Author            : myke predko
-Firmware          : 41
+Firmware          : 42
 ```
 
 ### Release History:
