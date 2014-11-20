@@ -1,12 +1,12 @@
 <xml xmlns="http://www.w3.org/1999/xhtml">
-  <block type="expansion_servopower" id="1" x="-14" y="9">
+  <block type="expansion_servopower" id="1" x="175" y="153">
     <field name="SERVO">ON</field>
     <next>
       <block type="variables_set" id="2" inline="true">
         <field name="VAR">i</field>
         <value name="VALUE">
           <block type="math_number" id="3">
-            <field name="NUM">0</field>
+            <field name="NUM">1</field>
           </block>
         </value>
         <next>
